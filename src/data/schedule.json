@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "date": "Sat, Jun 15",
+    "time": "5:00 PM",
+    "duration": "60 min",
+    "level": "All Levels",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "date": "Sun, Jun 16",
+    "time": "3:00 PM",
+    "duration": "60 min",
+    "level": "All Levels",
+    "price": 25
+  },
+  {
+    "id": 3,
+    "date": "Mon, Jun 17",
+    "time": "6:00 PM",
+    "duration": "60 min",
+    "level": "All Levels",
+    "price": 25
+  },
+  {
+    "id": 4,
+    "date": "Mon, Jun 18",
+    "time": "6:00 PM",
+    "duration": "60 min",
+    "level": "All Levels",
+    "price": 25
+  }
+]

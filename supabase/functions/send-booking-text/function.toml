@@ -1,0 +1,5 @@
+# Disable JWT verification so browser requests (with anon key) aren't blocked
+verify_jwt = false
+
+[env]
+# No env overrides here; keep secrets in Supabase dashboard
